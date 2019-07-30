@@ -1,3 +1,14 @@
+#kad
+https://www.npmjs.com/package/kad-js
+https://www.npmjs.com/package/kad --- this is the coveruped library... documentation is hard to find.
+the above library was deligitamized by this: https://www.npmjs.com/package/@kadenceproject/kadence
+and that library was depricated for this: https://www.npmjs.com/package/@deadcanaries/kadence
+......and here is the related repository https://gitlab.com/deadcanaries/kadence
+...watch a brief introduction into and flattery of this library at https://youtu.be/zTbRa9XzkvE
+
+
+
+
 # Awesome Decentralization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of useful libraries, tools, and resources for building untrusted decentralized applications.
